@@ -6,16 +6,16 @@
   * [Algorithms](#algorithms)
 * [Security](#security)
 
+### HTML
+
+#### Flexbox
+* [Flexbox Froggy](http://flexboxfroggy.com/)
+
 ### Language Agnostic
 
 #### Algorithms
 
 * [Human Resource Machine](http://tomorrowcorporation.com/humanresourcemachine) ![Paid game](http://icons.iconarchive.com/icons/designcontest/ecommerce-business/24/money-icon.png)
-
-### HTML
-
-#### Flexbox
-* [Flexbox Froggy](http://flexboxfroggy.com/)
 
 #### Security
 
